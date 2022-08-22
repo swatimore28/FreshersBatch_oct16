@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace FootballDB.Controllers
+namespace Assignment_3_EF_.Controllers
 {
     public class HomeController : Controller
     {
